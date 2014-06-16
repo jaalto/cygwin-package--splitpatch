@@ -22,6 +22,7 @@ Build requirements:
 
 Canonical homepage:
   http://www.clearchain.com/blog/posts/splitting-a-patch
+  https://packages.debian.org/unstable/splitpatch
 
 Canonical download:
   https://github.com/benjsc/splitpatch
