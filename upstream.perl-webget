@@ -1,0 +1,2 @@
+tag1: splitpatch
+  https://packages.debian.org/sid/splitpatch pregexp:orig.tar.gz file:splitpatch_0.0+20131223+gitb13d810.orig.tar.gz new: x:
