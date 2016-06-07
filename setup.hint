@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "split the patch up into files or hunks"
 ldesc: "Divide a patch or diff file into pieces. The split can made by
 file or by hunk basis. This makes is possible to separate changes that
